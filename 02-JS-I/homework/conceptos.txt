@@ -1,0 +1,7 @@
+Conceptos:
+
+Que es una variable: Son espacios en memoria (por ejemplo una letra) en donde puedo almacenar algun valor.
+Que son Strings: Son cadenas de caracteres, pueden ser letras,numeros,simbolos.
+Que son funciones: Almacenan metodos y procedimientos especifico. Realizan algo en concreto en el programa.
+Que son Declaraciones if:  Se utilizan para condicionar una expresion.
+Que son Valores booleanos (true, false): Determinan si una condicion (expresion) es verdadera o falsa, utilizando unas reglas logicas.

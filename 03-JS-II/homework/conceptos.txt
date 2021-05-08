@@ -1,0 +1,2 @@
+Que es for: es una sentencia que nos permite ejecutar unas instruciones un numero finito de veces, ademas tambien nos ahorra escribir codigo.
+Que es &&, ||, ! : Son operadores logicos, los cuales nos validan una condicion por medio de unas reglas, el resultado final puede ser verdadera, falsa o una negacion.

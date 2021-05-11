@@ -100,6 +100,7 @@ function agregarNumeros(numeros) {
   var suma = 0;
 
   for (var i = 0; i < numeros.length; i++){
+  
     suma = suma + numeros[i];
   }
   return suma;
@@ -113,8 +114,8 @@ function agregarNumeros(numeros) {
 
   var suma = 0;
 
-  for(var i=0;i< resultadosTest.length; i++){
-  suma += resultadosTest[i];
+  for(var i=0; i < resultadosTest.length; i++){
+  suma = suma + resultadosTest[i];
   }
   suma = suma / resultadosTest.length;
   return suma;

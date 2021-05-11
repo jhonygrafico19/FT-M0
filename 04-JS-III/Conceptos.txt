@@ -1,0 +1,4 @@
+Que son los Array?  
+
+Son como una especie de archivadores, donde puedo almacenar elementos (letras,numeros,simbolos), despues buscarlos, sacarlos o modificarlos, deacuerdo a su ubicacion.
+La ubicacion siempre se referencia desde el tamaño cero.

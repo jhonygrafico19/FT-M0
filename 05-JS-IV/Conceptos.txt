@@ -1,0 +1,5 @@
+Objetos:  Son elementos, los cuales tienen unas caracteristicas, propiedades. Es para modelar algo del mundo real.
+propiedades:  son las caracteristicas de los objetos.
+Metodos: Son los procedimientos que se invocan para actuar sobre los objetos. (por ejemplo un metodo que incoque a correr, en el caso de un deportista).
+Que son los bucles: Son estructuras de repeticion, las cuales se ejecutan hasta completar el ciclo. Nos ahorran bastante codigo.
+Notación de puntos vs notación de corchetes: Son modos de acceder a las propiedades de un objeto.

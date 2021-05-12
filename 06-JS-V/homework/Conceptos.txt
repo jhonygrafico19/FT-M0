@@ -1,0 +1,2 @@
+Que es prototype: Es un objeto que utiliza unas propiedades alternativamente, en caso de que se solicite una propiedad-funcion y no la encuentre el la crea alternativamente por medio del prototypo. Es una clase de metodos.
+Que es Constructors (de Clases): Es como una fabrica de entidades, puedo ir creado lo que yo necesite(entidades, objetos). Por convencion debe ir en el nombre la primer letra con mayuscula, se utiliza el this, dentro de la funcion. al codigo creado se le denomina instancia por medio de la funcion. No retorna nada. 

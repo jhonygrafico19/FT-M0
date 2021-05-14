@@ -1,0 +1,1 @@
+Que son Funciones Callback: puedo pasar un argumento de una funcion a otra funcion. Que luego se puede invocar desde otra funcion externa. Cuando pasamos una funcion como argumento a otra funsion. 
